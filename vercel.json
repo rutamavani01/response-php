@@ -2,8 +2,8 @@
     "version": 2,
     "routes": [
         {
-            "src": "/api/videos",
-            "dest": "/api/videos.js"
+            "src": "/api/viedo",
+            "dest": "/api/viedo.js"
         }
     ]
 }
